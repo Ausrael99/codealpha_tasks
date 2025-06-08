@@ -35,7 +35,7 @@ pip install requests beautifulsoup4 pandas matplotlib seaborn
 ```
 ## Author
 
-Name: Osman HassabAlroul Mohamed
+Name: Osman HassabAlrsoul Mohamed
 
 Email: osmanhasspo@gmail.com
 
