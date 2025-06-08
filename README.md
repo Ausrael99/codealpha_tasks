@@ -16,8 +16,6 @@ This project scrapes job postings from [Wuzzuf.net](https://wuzzuf.net) for IT-r
 - Top hiring companies
 - Most popular job titles
 
-
-## Project Structure
 ##  Technologies Used
 
 - Python
@@ -34,11 +32,10 @@ This project scrapes job postings from [Wuzzuf.net](https://wuzzuf.net) for IT-r
 
 ```bash
 pip install requests beautifulsoup4 pandas matplotlib seaborn
-
-
+```
 ## Author
+
 Name: Osman Hasspo
-
 Email: osmanhasspo@gmail.com
-
+Linkedin https://www.linkedin.com/in/osman-hassabalrsoul-594419224/
 GitHub:
